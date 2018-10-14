@@ -1,2 +1,2 @@
-goodby
- good bye так правильно
+goodby;
+ good bye так правильно;
